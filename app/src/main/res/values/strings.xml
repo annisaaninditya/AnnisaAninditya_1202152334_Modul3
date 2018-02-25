@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Annisa Aninditya_1202152334_Modul3</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="judul_placeholder">Title</string>
+    <string name="keterangan_placeholder">News</string>
+    <string name="filler_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
+        vitae semper quam. In a metus ut nisl pharetra hendrerit et a leo. Curabitur nec sapien
+        odio. Vestibulum a mollis felis. Cras molestie felis nibh, ut maximus mauris feugiat
+        tincidunt. Curabitur ultricies eros sed ipsum pulvinar vehicula. Maecenas volutpat,
+        massa sit amet aliquam eleifend, massa lorem tempor sapien, eget finibus massa dolor
+        molestie lorem. Suspendisse at purus mauris. Proin nibh ligula, suscipit vel pharetra
+        posuere, bibendum id lorem.</string>
+
+    <string-array name="judul_air">
+        <item>Ades</item>
+        <item>Amidis</item>
+        <item>Aqua</item>
+        <item>Cleo</item>
+        <item>Club</item>
+        <item>Equil</item>
+        <item>Evian</item>
+        <item>Leminerale</item>
+        <item>Nestle</item>
+        <item>Pristine</item>
+        <item>Vit</item>
+    </string-array>
+
+    <string-array name="keterangan_air">
+        <item>Ini Air Ades!</item>
+        <item>Ini Air Amidis!</item>
+        <item>Ini Air Aqua!</item>
+        <item>Ini Air Cleo!</item>
+        <item>Ini Air Club!</item>
+        <item>Ini Air Equil!</item>
+        <item>Ini Air Evian!</item>
+        <item>Ini Air Leminerale!</item>
+        <item>Ini Air Nestle!</item>
+        <item>Ini Air Pristine!</item>
+        <item>Ini Air Vit!</item>
+    </string-array>
+
+    <array name="air_images">
+        <item>@drawable/ades</item>
+        <item>@drawable/amidis</item>
+        <item>@drawable/aqua</item>
+        <item>@drawable/cleo</item>
+        <item>@drawable/club</item>
+        <item>@drawable/equil</item>
+        <item>@drawable/evian</item>
+        <item>@drawable/leminerale</item>
+        <item>@drawable/nestle</item>
+        <item>@drawable/pristine</item>
+        <item>@drawable/vit</item>
+    </array>
+</resources>
+
